@@ -1,4 +1,4 @@
-# Selamat Datang di Proyek UTS Praktikum SDA Kelompok 16
+# Proyek UTS Praktikum SDA Kelompok 16
 Kelompok ini beranggotakan:
 - Naila Hafizha (2408107010026)
 - Aqila Ruqayyah (2408107010070)
